@@ -55,9 +55,8 @@ Copy code
 http://localhost:5173
 ```
 
----
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Sanika Parchande
 Computer Science Engineering Student
 
