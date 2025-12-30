@@ -57,8 +57,7 @@ http://localhost:5173
 
 
 ## 👨‍💻 Author
-Sanika Parchande
-
+Sanika Parchande.
 Computer Science Engineering Student
 
 ---
