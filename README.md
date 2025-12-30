@@ -1,4 +1,3 @@
-https://github.com/SanikaParchande/React-Dynamic-Routing.git
 # React Learning Project ⚛️
 
 ## 📖 Description
@@ -33,12 +32,12 @@ The project is beginner-friendly and focuses on clarity and correct usage of Rea
 ## ⚙️ How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/SanikaParchande/React-Dynamic-Routing.git
 Go to project folder
 
 bash
 Copy code
-cd repository-name
+cd React-Dynamic-Routing
 Install dependencies
 
 bash
